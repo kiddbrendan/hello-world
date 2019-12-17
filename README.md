@@ -2,4 +2,4 @@
 
 This is a test
 
-I'm kiddbrendan, new to Github
+I'm kiddbrendan
